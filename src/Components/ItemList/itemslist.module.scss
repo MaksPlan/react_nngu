@@ -1,0 +1,12 @@
+.page_itemslist_wrapper {
+    flex: 1 0 auto;
+    padding: 10px;
+    background-color: orange;
+}
+
+.page_itemlist {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+   
+}
